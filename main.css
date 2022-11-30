@@ -1,0 +1,29 @@
+/*Delete me and start writing your CSS here. Don't forget to save as you go!*/
+
+
+.story {
+
+	max-width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.story-header h1 {
+
+	font-family:"Noto Sans", sans-serif;
+	font-size: 30px;
+
+}
+
+.byline {
+
+	font-family: "Noto Sans", sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.story-body {
+
+	font-family: "Noto Sans", sans-serif;
+	font-size: 20px;
+}
